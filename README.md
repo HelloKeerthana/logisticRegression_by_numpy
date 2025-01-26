@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Logistic Regression with Seaborn Visualization</title>
-</head>
-<body>
+
     <h1>Logistic Regression with Seaborn Visualization</h1>
     <p>This project demonstrates how to implement logistic regression from scratch, make predictions, and visualize the results using Seaborn and Matplotlib.</p>
 
@@ -33,8 +26,3 @@
 
     <h2>Visualization</h2>
     <p>The scatter plot shows the data points with color representing the actual class labels and marker styles indicating the predicted class labels. The decision boundary, showing the model's classification region, is also displayed.</p>
-
-    <h2>License</h2>
-    <p>This project is open source and available under the MIT License.</p>
-</body>
-</html>
